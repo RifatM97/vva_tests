@@ -23,7 +23,7 @@ import argparse
 
 
 # import API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-opPPC....."
 API_KEY = os.getenv("OPENAI_API_KEY")
 
 def STT_microphone():
